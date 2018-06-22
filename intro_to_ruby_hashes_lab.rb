@@ -13,7 +13,7 @@ def monopoly
 		railroads: {
 			pieces: 4,
 			name: {
-				
+
 			},
 			rent_in_dollars: {
 				
